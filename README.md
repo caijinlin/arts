@@ -11,9 +11,16 @@
 
 ### 打卡
 
-#### 201903-week-3 第一周 https://github.com/caijinlin/arts/issues/1
+#### 第二周 https://github.com/caijinlin/arts/issues/2
 
-- Algorithm：链表练习
+- Algorithm：restore-ip-addresses（递归）
+- Review：redis sentinel conf
+- Tip：redis查看主从同步是否完成
+- Share：学习总结 - docker的基本使用
+
+#### 第一周 https://github.com/caijinlin/arts/issues/1
+
+- Algorithm：reverse-linked-list-ii（链表）
 - Review：linux编程接口
 - Tip：ps进程
 - Share：源码阅读 - Redis数据结构底层实现
