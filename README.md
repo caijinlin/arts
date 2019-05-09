@@ -11,6 +11,13 @@
 
 ### 打卡
 
+#### 第三周 https://github.com/caijinlin/arts/issues/3
+
+- Algorithm：binary-tree-inorder-traversal
+- Review：golang unit testing tool
+- Tip：linux高级命令使用
+- Share：iptables 设置redis白名单
+
 #### 第二周 https://github.com/caijinlin/arts/issues/2
 
 - Algorithm：restore-ip-addresses（递归）
